@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "emonlib.h": "c"
+    },
+    "idf.adapterTargetName": "esp32c3"
+}
